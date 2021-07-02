@@ -1,0 +1,1 @@
+better version here:  https://github.com/Brandon-Valley/AutoHotKey_scripts
